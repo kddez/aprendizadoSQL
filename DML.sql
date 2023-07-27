@@ -107,6 +107,3 @@ select * from stf_produto_venda;
 
 ----------------- VENDA
 select * from stf_venda;
-
-
-
